@@ -16,5 +16,13 @@
     "index-news-archive-link": "News archive",
     "index-news-more-link": "More",
     "index-news-subscribe-title": "Stay informed",
-    "index-news-subscribe-button": "Send"
+    "index-news-subscribe-button": "Send",
+    "index-products-title": "Products",
+    "index-products-msp-title": "MSP",
+    "index-products-msp-text": "The mobile service platform is an effective link between office and field operations. Our solution offers support to all business processes in the field. It is intended for the management, optimization and monitoring of business processes in the field. ",
+    "index-products-msplog-title": "MSP Logistics",
+    "index-products-msplog-text": "MSP logistics is an upgrade of the MSP environment that is adapted for transport companies. It enables graphic planning of transports, cost optimization, digitalization of orders and automation of preparation of accounts and business reports. ",
+    "index-products-solutions-title": "Custom solutions",
+    "index-products-solutions-text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.",
+    "index-products-more-link": "Show more"
 }
