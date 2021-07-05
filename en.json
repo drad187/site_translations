@@ -39,5 +39,6 @@
     "index-info-title": "Demand",
     "index-info-text": "Do you have a question? Contact us, we will be happy to respond.",
     "index-info-message-placeholder": "Your message",
-    "index-info-email-placeholder": "Your email"
+    "index-info-email-placeholder": "Your email",
+    "index-info-button": "Send"
 }

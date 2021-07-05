@@ -39,5 +39,6 @@
     "index-info-title": "Povpraševanje",
     "index-info-text": "Imate vprašanje? Kontaktirajte nas, z veseljem se bomo odzvali.",
     "index-info-message-placeholder": "Vaše sporočilo",
-    "index-info-email-placeholder": "Vaš email"
+    "index-info-email-placeholder": "Vaš email",
+    "index-info-button": "Pošlji"
 }
