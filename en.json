@@ -11,5 +11,10 @@
     "index-areas-delivery": "Delivery",
     "index-areas-sales": "Sales",
     "index-areas-sales-prom": "Sales promotion",
-    "index-areas-construction": "Construction"
+    "index-areas-construction": "Construction",
+    "index-news-title": "Current",
+    "index-news-archive-link": "News archive",
+    "index-news-more-link": "More",
+    "index-news-subscribe-title": "Stay informed",
+    "index-news-subscribe-button": "Send"
 }
