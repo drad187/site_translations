@@ -37,5 +37,7 @@
     "index-support-text": "Maecenas at sollicitudin mi. Suspendisse urna urna, mollis sed tempus at, faucibus at eros. Ut euismod quam non nibh ultrices pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
     "index-support-button": "Razišči",
     "index-info-title": "Povpraševanje",
-    "index-info-text": "Imate vprašanje? Kontaktirajte nas, z veseljem se bomo odzvali."
+    "index-info-text": "Imate vprašanje? Kontaktirajte nas, z veseljem se bomo odzvali.",
+    "index-info-message-placeholder": "Vaše sporočilo",
+    "index-info-email-placeholder": "Vaš email"
 }

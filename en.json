@@ -37,5 +37,7 @@
     "index-support-text": "Maecenas at sollicitudin mi. Suspendisse urna urna, mollis sed tempus at, faucibus at eros. Ut euismod quam non nibh ultrices pulvinar. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
     "index-support-button": "Investigate",
     "index-info-title": "Demand",
-    "index-info-text": "Do you have a question? Contact us, we will be happy to respond."
+    "index-info-text": "Do you have a question? Contact us, we will be happy to respond.",
+    "index-info-message-placeholder": "Your message",
+    "index-info-email-placeholder": "Your email"
 }
