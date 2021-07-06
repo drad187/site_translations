@@ -86,5 +86,7 @@
     "product-msp-enable-item8": "Integracije z zalednimi okolji",
     "product-msp-enable-item9": "Prilagoditev celostni podobi podjetja",
     "product-msp-enable-item10": "Večjezikovna podpora",
-    "product-msp-enable-item11": "Varnost podatkov in GDPR skladnost"
+    "product-msp-enable-item11": "Varnost podatkov in GDPR skladnost",
+    "product-msp-insight-title": "MSP Insight predstavitev",
+    "product-msp-insight-text": "Spletni portal MSP Insight je podporna aplikacija platformi MSP in je sestavni del okolja MSP. Zasnovan je kot spletna aplikacija in ima funkciji administrativnega okolja in poslovne zaledne podpore. Uporabnikom med drugim omogoča pregled in prenos podatkov, ki so jih v aplikacijo MSP vnesli zaposleni na terenu. Dostop do okolja MSP Insight je pogojen z ustreznimi uporabniškimi politikami. Te uporabniku dovolijo dostop le do funkcionalnosti, do katerih je upravičen. Uporaba spletne aplikacije uporabniku olajša pripravo in izvoz poročil in statistik za pregled uspešnosti posameznega zaposlenega na terenu."
 }
