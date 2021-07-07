@@ -60,6 +60,12 @@
     "index-info-email-placeholder": "Your email",
     "index-info-button": "Send",
 
+
+    "goodpractice-title": "[en]Primer dobre prakse",
+    "goodpractice-challenge-title": "[en]S kakšnimi izzivi so se srečevali v referenčnem podjetju?",
+    "goodpractice-solution-title": "[en]Kako smo pomagali referenčnemu podjetju?",
+    "goodpractice-gain-title": "[en]Kaj so pridobili?",
+
     "product-msp-header-title": "[en]MSP",
     "product-msp-header-text": "[en]Okolje MSP zagotavlja digitalizacijo širokega nabora  terenskih  poslovnih  procesov. MSP  učinkovito povezuje zaledno okolje pisarne in opravila izvedena na terenu.",
     "product-msp-info-title": "[en]Osnovna predstavitev",
@@ -123,5 +129,19 @@
     "product-msplog-process-step2": "[en]Disponenti in vodstvo imajo pregled nad zasedenostjo virov v vsakem trenutku.",
     "product-msplog-process-step3": "[en]Ker so podatki zbrani na enem mestu, je omogočeno optimalno planiranje transportnih poti.",
     "product-msplog-process-step4": "[en]Vozniki dobijo plan razvozov na svoje Android naprave (podatki o stranki, tovoru, e-CMR …).",
-    "product-msplog-process-step5": "[en]Vozniki na terenu sproti izpolnjujejo dokumentacijo ter zajame podpise in fotografije, podatki pa so avtomatsko preneseni v zaledno pisarno. "
+    "product-msplog-process-step5": "[en]Vozniki na terenu sproti izpolnjujejo dokumentacijo ter zajame podpise in fotografije, podatki pa so avtomatsko preneseni v zaledno pisarno. ",
+    "product-msplog-goodpractice-title": "",
+    "product-msplog-goodpractice-refcomp": "[en]Referenčno podjetje je transportno podjetje, ki nudi storitev prevoza in špedicije. Imajo vozni park, ki obsega več kot 70 vozil.",
+    "product-msplog-goodpractice-challenge": "[en]V podjetju so se odločili, da digitalizirajo celotno poslovanje, in sicer od prejema in potrditve naročil ter planiranja do izvedbe in fakturiranja. Opravljajo prevoze na tako krajše kot daljše razdalje, pri vseh pa je bila težava enaka: dokumentacija. Pri krajših razvoznih poteh so imeli ogromno sprotne dokumentacije, ki je bila velikokrat nepopolno ali nečitljivo izpolnjena, manjkali pa so tudi ključni podpisi. Pri daljših prevozih je bila težava podobna, s tem da je minilo ogromno časa, da so vozniki dokumentacijo prinesli na sedež podjetja. Podjetje se je tako soočalo z izgubami na račun poznega fakturiranja, obenem pa so vedno bolj spoznavali, da vozniki delajo t. i. »prazne kilometre«.",
+    "product-msplog-goodpractice-solution": "[en]Z okoljem MSP Logistika smo podjetju omogočili pregled nad celotnim procesom na način, da imajo vse ključne podatke zbrane na enem mestu. Ko disponent sprejme naročilo, lahko zaradi vpogleda in pregleda najbolj optimalno načrtuje dostavne poti za voznike glede na lokacije, časovna okna in tovor. Vozniki na svoje Android naprave prejmejo vso potrebno dokumentacijo o transportih (dobavnice, eCMR …). Zaledna pisarna ima v vsakem trenutku vpogled v dogajanje, saj sproti prejema zaključeno dokumentacijo. S tem so veliko skrajšali proces fakturiranja, obenem pa so dvignili zadovoljstvo svojih naročnikov, saj le-ti prejmejo izvod podpisane dokumentacije na e-mail, če to želijo. V primeru izrednih dogodkov so zajete tudi fotografije, zato so reklamacijski postopki veliko hitreje in uspešnejše rešeni. Zaledna pisarna ima vpogled tudi v pretekle dogodke in pa poročila o transportih.",
+    "product-msplog-goodpractice-gain-item1": "[en]Digitalizacija celotnega poslovanja",
+    "product-msplog-goodpractice-gain-item2": "[en]Skrajšani procesi",
+    "product-msplog-goodpractice-gain-item3": "[en]Optimalno planiranje transportnih poti",
+    "product-msplog-goodpractice-gain-item4": "[en]Oprava papirnih obrazcev",
+    "product-msplog-goodpractice-gain-item5": "[en]Zmanjšanje administrativnega dela voznikov",
+    "product-msplog-goodpractice-gain-item6": "[en]Zmanjšane administrativnega dela zaledne pisarne",
+    "product-msplog-goodpractice-gain-item7": "[en]Neposredno beleženje podatkov v zaledni sistem",
+    "product-msplog-goodpractice-gain-item8": "[en]Hitrejši pretok podatkov",
+    "product-msplog-goodpractice-gain-item9": "[en]Optimalna koordinacija in delovanje zaledne pisarne",
+    "product-msplog-goodpractice-gain-item10": "[en]Poročanje"
 }
