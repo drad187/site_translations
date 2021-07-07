@@ -105,5 +105,16 @@
     "product-msplog-support-conn-title": "[en]Omogoča povezavo z zalednimi sistemi",
     "product-msplog-support-conn-text": "[en]Okolje se poveže z obstoječimi zalednimi sistemi (ERP, CRM, skladiščni sistemi), kar med drugim zagotavlja pripravo obračunov v realnem času.",
     "product-msplog-support-access-title": "[en]Dostopnost",
-    "product-msplog-support-access-text": "[en]Rešitev MSP zagotavlja zmogljivo online in offline delovanje. Rešitev v oblaku omogoča dostopnost na Android napravah uporabnikov."
+    "product-msplog-support-access-text": "[en]Rešitev MSP zagotavlja zmogljivo online in offline delovanje. Rešitev v oblaku omogoča dostopnost na Android napravah uporabnikov.",
+    "product-msplog-infrastructure-title": "[en]Infrastrukturne storitve zajete v MSP Logistiki",
+    "product-msplog-infrastructure-item1": "[en]Administracija",
+    "product-msplog-infrastructure-item2": "[en]Uporabniške politike",
+    "product-msplog-infrastructure-item3": "[en]Integracijski modul",
+    "product-msplog-infrastructure-item3-subitem1": "[en]Finančno računovodska služba (ERP)",
+    "product-msplog-infrastructure-item3-subitem2": "[en]Integracija z borzami logističnih povpraševanj",
+    "product-msplog-infrastructure-item3-subitem3": "[en]Integracija z velikimi naročniki",
+    "product-msplog-infrastructure-item4": "[en]Poljubno zaslonska podpora",
+    "product-msplog-infrastructure-item5": "[en]Komunikacija s tablicami (MSP)",
+    "product-msplog-infrastructure-item6": "[en]Sledenje zvedenih postopkov",
+    "product-msplog-infrastructure-item7": "[en]Tok poslovnega procesa"
 }
