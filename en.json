@@ -88,5 +88,8 @@
     "product-msp-enable-item10": "[en]Večjezikovna podpora",
     "product-msp-enable-item11": "[en]Varnost podatkov in GDPR skladnost",
     "product-msp-insight-title": "[en]MSP Insight predstavitev",
-    "product-msp-insight-text": "[en]Spletni portal MSP Insight je podporna aplikacija platformi MSP in je sestavni del okolja MSP. Zasnovan je kot spletna aplikacija in ima funkciji administrativnega okolja in poslovne zaledne podpore. Uporabnikom med drugim omogoča pregled in prenos podatkov, ki so jih v aplikacijo MSP vnesli zaposleni na terenu. Dostop do okolja MSP Insight je pogojen z ustreznimi uporabniškimi politikami. Te uporabniku dovolijo dostop le do funkcionalnosti, do katerih je upravičen. Uporaba spletne aplikacije uporabniku olajša pripravo in izvoz poročil in statistik za pregled uspešnosti posameznega zaposlenega na terenu."
+    "product-msp-insight-text": "[en]Spletni portal MSP Insight je podporna aplikacija platformi MSP in je sestavni del okolja MSP. Zasnovan je kot spletna aplikacija in ima funkciji administrativnega okolja in poslovne zaledne podpore. Uporabnikom med drugim omogoča pregled in prenos podatkov, ki so jih v aplikacijo MSP vnesli zaposleni na terenu. Dostop do okolja MSP Insight je pogojen z ustreznimi uporabniškimi politikami. Te uporabniku dovolijo dostop le do funkcionalnosti, do katerih je upravičen. Uporaba spletne aplikacije uporabniku olajša pripravo in izvoz poročil in statistik za pregled uspešnosti posameznega zaposlenega na terenu.",
+
+    "product-msplog-header-title": "[en]MSP Logistika",
+    "product-msplog-header-text": "[en]MSP logistika je nadgradnja okolja MSP, ki je prilagojena za transportna podjetja. Omogoča grafično načrtovanje transportov, optimizacijo stroškov, digitalizacijo naročil in avtomatizacijo priprave obračunov ter poslovnih poročil."
 }
