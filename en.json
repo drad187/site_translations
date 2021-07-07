@@ -93,6 +93,17 @@
     "product-msplog-header-title": "[en]MSP Logistika",
     "product-msplog-header-text": "[en]MSP logistika je nadgradnja okolja MSP, ki je prilagojena za transportna podjetja. Omogoča grafično načrtovanje transportov, optimizacijo stroškov, digitalizacijo naročil in avtomatizacijo priprave obračunov ter poslovnih poročil.",
     "product-msplog-info-title": "[eng]Osnovna predstavitev",
-    "product-msplog-info-text": "[en]Okolje MSP Logistika zagotavlja celostno procesno podporo logističnim procesom od zaledne pisarne (naročila in kreiranje transporta) do terenskega dela (elektronska spremna dokumentacija).Uporaba MSP avtomatizira procese naročanja in s tem v celoti odpravi potrebo po papirni dokumentaciji. Možna je povezava z obstoječimi zalednimi okolji (ERP, CRM, skladiščni sistemi), rešitev pa je mogoče uporabljati tudi kot samostojno okolje, brez povezave z zalednimi rešitvami. Osnovni modul predstavlja programsko in sistemsko infrastrukturo potrebno za zagotavljanje podpore delu od sprejema naročila, preko organizacije usluge pa do oddaje obračuna izvedenih logističnih uslug v finančno računovodsko službo."
-
+    "product-msplog-info-text": "[en]Okolje MSP Logistika zagotavlja celostno procesno podporo logističnim procesom od zaledne pisarne (naročila in kreiranje transporta) do terenskega dela (elektronska spremna dokumentacija).Uporaba MSP avtomatizira procese naročanja in s tem v celoti odpravi potrebo po papirni dokumentaciji. Možna je povezava z obstoječimi zalednimi okolji (ERP, CRM, skladiščni sistemi), rešitev pa je mogoče uporabljati tudi kot samostojno okolje, brez povezave z zalednimi rešitvami. Osnovni modul predstavlja programsko in sistemsko infrastrukturo potrebno za zagotavljanje podpore delu od sprejema naročila, preko organizacije usluge pa do oddaje obračuna izvedenih logističnih uslug v finančno računovodsko službo.",
+    "product-msplog-support-title": "[en]Podpora logističnim procesom",
+    "product-msplog-support-subtitle": "[en]Uporaba MSP Logistike poenostavi vaše procese naročanja in skrajša čas od naročila do izvedbe transporta.",
+    "product-msplog-support-unify-title": "[en]Poenoteno kreiranje transportov",
+    "product-msplog-support-unify-text": "[en]Poenoteno kreiranje transportov zagotavlja skrajšanje časa od naročila transporta do same izvedbe, saj se zmanjša količina administrativnega dela.",
+    "product-msplog-support-docu-title": "[en]Omogočena uporaba spremne dokumentacije",
+    "product-msplog-support-docu-text": "[en]Okolje MSP logistika omogoča uporabo spremne dokumentacije znotraj okolja, ki je dostopna zaposlenim glede na uporabniške pravice.",
+    "product-msplog-support-track-title": "[en]Sledenje vozil s pomočjo funkcij geo-fence",
+    "product-msplog-support-track-text": "[en]Okolje MSP Logistika omogoča določanje kontrolnih točk (geolokacij) in časovnih opozoril, kar omogoča optimizacijo transportov.",
+    "product-msplog-support-conn-title": "[en]Omogoča povezavo z zalednimi sistemi",
+    "product-msplog-support-conn-text": "[en]Okolje se poveže z obstoječimi zalednimi sistemi (ERP, CRM, skladiščni sistemi), kar med drugim zagotavlja pripravo obračunov v realnem času.",
+    "product-msplog-support-access-title": "[en]Dostopnost",
+    "product-msplog-support-access-text": "[en]Rešitev MSP zagotavlja zmogljivo online in offline delovanje. Rešitev v oblaku omogoča dostopnost na Android napravah uporabnikov."
 }
