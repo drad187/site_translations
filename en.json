@@ -143,5 +143,23 @@
     "product-msplog-goodpractice-gain-item7": "[en]Neposredno beleženje podatkov v zaledni sistem",
     "product-msplog-goodpractice-gain-item8": "[en]Hitrejši pretok podatkov",
     "product-msplog-goodpractice-gain-item9": "[en]Optimalna koordinacija in delovanje zaledne pisarne",
-    "product-msplog-goodpractice-gain-item10": "[en]Poročanje"
+    "product-msplog-goodpractice-gain-item10": "[en]Poročanje",
+
+    "areas-service-header-title": "[en]Servis in vzdrževanje",
+    "areas-service-header-text": "[en]vstavi besedilo",
+
+    "areas-montage-header-title": "[en]Montaža",
+    "areas-montage-header-text": "[en]vstavi besedilo",
+
+    "areas-delivery-header-title": "[en]Dostava",
+    "areas-delivery-header-text": "[en]vstavi besedilo",
+
+    "areas-sales-header-title": "[en]Prodaja",
+    "areas-sales-header-text": "[en]vstavi besedilo",
+
+    "areas-accsales-header-title": "[en]Pospeševanje prodaje",
+    "areas-accsales-header-text": "[en]vstavi besedilo",
+
+    "areas-construction-header-title": "[en]Gradbeništvo",
+    "areas-construction-header-text": "[en]vstavi besedilo"
 }
