@@ -96,9 +96,9 @@
     "product-msp-insight-title": "MSP Insight",
     "product-msp-insight-text": "MSP Insight is a web application that supports MSP app. It carries a function of an administrative module for field service management. It enables insight into real-time data and history of events, planning & scheduling and other data, relevant for operating. MSP Insight offers various reports and statistics and the The access is adjucsted according to user’s rights.",
 
-    "product-msplog-header-title": "[en]MSP Logistika",
-    "product-msplog-header-text": "[en]MSP logistika je nadgradnja okolja MSP, ki je prilagojena za transportna podjetja. Omogoča grafično načrtovanje transportov, optimizacijo stroškov, digitalizacijo naročil in avtomatizacijo priprave obračunov ter poslovnih poročil.",
-    "product-msplog-info-title": "[eng]Osnovna predstavitev",
+    "product-msplog-header-title": "MSP TMS",
+    "product-msplog-header-text": "MSP TMS is an upgrade of MSP environment that is specialized for digitalization of logistics processes at transporting companies. It enables optimized route planning, cost optimization, digitalization of accepting orders and automated reporting.",
+    "product-msplog-info-title": "About MSP TMS",
     "product-msplog-info-text": "[en]Okolje MSP Logistika zagotavlja celostno procesno podporo logističnim procesom od zaledne pisarne (naročila in kreiranje transporta) do terenskega dela (elektronska spremna dokumentacija).Uporaba MSP avtomatizira procese naročanja in s tem v celoti odpravi potrebo po papirni dokumentaciji. Možna je povezava z obstoječimi zalednimi okolji (ERP, CRM, skladiščni sistemi), rešitev pa je mogoče uporabljati tudi kot samostojno okolje, brez povezave z zalednimi rešitvami. Osnovni modul predstavlja programsko in sistemsko infrastrukturo potrebno za zagotavljanje podpore delu od sprejema naročila, preko organizacije usluge pa do oddaje obračuna izvedenih logističnih uslug v finančno računovodsko službo.",
     "product-msplog-support-title": "[en]Podpora logističnim procesom",
     "product-msplog-support-subtitle": "[en]Uporaba MSP Logistike poenostavi vaše procese naročanja in skrajša čas od naročila do izvedbe transporta.",
